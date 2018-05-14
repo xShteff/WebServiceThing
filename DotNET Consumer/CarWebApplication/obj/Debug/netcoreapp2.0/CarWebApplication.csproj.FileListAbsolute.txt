@@ -1,0 +1,14 @@
+C:\Users\allen\source\repos\CarService\CarWebApplication\bin\Debug\netcoreapp2.0\CarWebApplication.deps.json
+C:\Users\allen\source\repos\CarService\CarWebApplication\bin\Debug\netcoreapp2.0\CarWebApplication.runtimeconfig.json
+C:\Users\allen\source\repos\CarService\CarWebApplication\bin\Debug\netcoreapp2.0\CarWebApplication.runtimeconfig.dev.json
+C:\Users\allen\source\repos\CarService\CarWebApplication\bin\Debug\netcoreapp2.0\CarWebApplication.dll
+C:\Users\allen\source\repos\CarService\CarWebApplication\obj\Debug\netcoreapp2.0\CarWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\allen\source\repos\CarService\CarWebApplication\obj\Debug\netcoreapp2.0\CarWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\allen\source\repos\CarService\CarWebApplication\obj\Debug\netcoreapp2.0\CarWebApplication.AssemblyInfoInputs.cache
+C:\Users\allen\source\repos\CarService\CarWebApplication\obj\Debug\netcoreapp2.0\CarWebApplication.AssemblyInfo.cs
+C:\Users\allen\source\repos\CarService\CarWebApplication\bin\Debug\netcoreapp2.0\CarWebApplication.pdb
+C:\Users\allen\source\repos\CarService\CarWebApplication\obj\Debug\netcoreapp2.0\CarWebApplication.dll
+C:\Users\allen\source\repos\CarService\CarWebApplication\obj\Debug\netcoreapp2.0\CarWebApplication.pdb
+C:\Users\allen\source\repos\CarService\CarWebApplication\bin\Debug\netcoreapp2.0\CarService.exe
+C:\Users\allen\source\repos\CarService\CarWebApplication\bin\Debug\netcoreapp2.0\CarService.pdb
+C:\Users\allen\source\repos\CarService\CarWebApplication\bin\Debug\netcoreapp2.0\CarService.exe.config

@@ -1,0 +1,12 @@
+﻿@model CarWebApplication.Models.CarViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Cars</h2>
+
+
+@foreach(var car in Model.List.List) {
+    <li><b>Name:</b> @car.name ; <b>Model:</b> @car.model</li>
+}

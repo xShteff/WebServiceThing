@@ -1,0 +1,9 @@
+C:\Users\allen\source\repos\CarService\CarService\bin\Debug\CarService.exe.config
+C:\Users\allen\source\repos\CarService\CarService\bin\Debug\CarService.exe
+C:\Users\allen\source\repos\CarService\CarService\bin\Debug\CarService.pdb
+C:\Users\allen\source\repos\CarService\CarService\obj\Debug\CarService.csprojResolveAssemblyReference.cache
+C:\Users\allen\source\repos\CarService\CarService\obj\Debug\CarService.csproj.CoreCompileInputs.cache
+C:\Users\allen\source\repos\CarService\CarService\obj\Debug\CarService.exe
+C:\Users\allen\source\repos\CarService\CarService\obj\Debug\CarService.pdb
+C:\Users\allen\source\repos\CarService\CarService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\allen\source\repos\CarService\CarService\bin\Debug\Newtonsoft.Json.xml
